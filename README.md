@@ -45,9 +45,11 @@
     tag                  Create, list, delete or verify a tag object signed with GPG
     worktree             Manage multiple working trees
 
+
 # Ancillary Commands / Manipulators
 
-    config               Get and set repository or global options
+> [config](https://git-scm.com/docs/git-config)               Get and set repository or global options
+
     fast-export          Git data exporter
     fast-import          Backend for fast Git data importers
     filter-branch        Rewrite branches
