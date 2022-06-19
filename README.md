@@ -1,4 +1,4 @@
-#Main Porcelain Commands
+# Main Porcelain Commands
 
     add                  Add file contents to the index
     am                   Apply a series of patches from a mailbox
@@ -45,7 +45,7 @@
     tag                  Create, list, delete or verify a tag object signed with GPG
     worktree             Manage multiple working trees
 
-#Ancillary Commands / Manipulators
+# Ancillary Commands / Manipulators
 
     config               Get and set repository or global options
     fast-export          Git data exporter
