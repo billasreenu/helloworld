@@ -89,7 +89,7 @@
     send-email           Send a collection of patches as emails
     svn                  Bidirectional operation between a Subversion repository and Git
 
-#Low-level Commands / Manipulators
+# Low-level Commands / Manipulators
 
     apply                Apply a patch to files and/or to the index
     checkout-index       Copy files from the index to the working tree
@@ -113,7 +113,7 @@
 
 
 
-#Low-level Commands / Interrogators
+#  Low-level Commands / Interrogators
 
     cat-file             Provide content or type and size information for repository objects
     cherry               Find commits yet to be applied to upstream
@@ -137,7 +137,7 @@
     var                  Show a Git logical variable
     verify-pack          Validate packed Git archive files
 
-#Low-level Commands / Syncing Repositories
+# Low-level Commands / Syncing Repositories
 
     daemon               A really simple server for Git repositories
     fetch-pack           Receive missing objects from another repository
@@ -145,7 +145,7 @@
     send-pack            Push objects over Git protocol to another repository
     update-server-info   Update auxiliary info file to help dumb servers
 
-#Low-level Commands / Internal Helpers
+#  Low-level Commands / Internal Helpers
 
     check-attr           Display gitattributes information
     check-ignore         Debug gitignore / exclude files
@@ -165,7 +165,7 @@
     sh-setup             Common Git shell script setup code
     stripspace           Remove unnecessary whitespace
 
-#External commands
+# External commands
 
     askpass
     askyesno
@@ -175,4 +175,3 @@
     update-git-for-windows
 
 
-> a
